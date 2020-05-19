@@ -1,0 +1,9 @@
+A string is the literal representation of a string of characters
+A boolean can have the following values: True or false
+Data is stored in variables.
+Which JavaScript keyword is used to declare a variable? var
+Which operator is used to set the value of a variable? =
+What is the data type of the myVar variable: var myVar = 24;? Number
+
+What is the value of the myVar variable: var myVar = 5 + 5;? 10
+What is the value of the myVar variable: var myVar = '5' + '5';? 55
