@@ -1,0 +1,13 @@
+
+
+.homey{
+    color: purple;
+ height: 5em;
+ width: 10em;
+ border-radius: 30%;
+ border: 2px dotted maroon;
+}
+
+.curtians{
+    font-size: 3em;
+}
